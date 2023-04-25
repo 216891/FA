@@ -7,7 +7,6 @@ resistance = 0.005
 WIDTH = 800
 HEIGHT = 800
 
-
 class Ball:
     def __init__(self, canvas, x, y, size):
         self.canvas = canvas
