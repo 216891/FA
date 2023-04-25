@@ -8,7 +8,6 @@ WIDTH = 800
 HEIGHT = 800
 LIVES = 3
 
-
 class GameObject:
     def __init__(self, canvas, x, y, size, game, img_name=None, color=None):
         self.canvas = canvas
