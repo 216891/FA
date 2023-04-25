@@ -1,6 +1,5 @@
 import tkinter
 from tkinter import Tk, Canvas, font
-from PIL import Image, ImageTk
 import math
 import random
 import time
