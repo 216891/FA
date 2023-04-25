@@ -1,7 +1,6 @@
 import tkinter as tk
 import math
 
-
 class OvalRotatingObject:
     def __init__(self, center_x, center_y, radius, distance_from_center, angle, speed, x, y,
                  window_obj, canvas_obj, clockwise=True, color='white'):
