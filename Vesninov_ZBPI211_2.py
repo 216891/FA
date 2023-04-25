@@ -5,7 +5,6 @@ import math
 WIDTH = 1000
 HEIGHT = 500
 
-
 class Raindrop:
     def __init__(self, canvas, x, y, length, speed=1.0, color='blue'):
         self.canvas = canvas
